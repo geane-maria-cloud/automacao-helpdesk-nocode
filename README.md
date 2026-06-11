@@ -16,7 +16,7 @@ Projeto de automação de fluxo de dados de ponta a ponta, conectando ferramenta
 ![Visão Kanban](kanban.png)
 
 
-![No-Code em ação](nocode.png)
+![No-Code em ação](NoCode.png)
 
 ## 📋 Organização e Gestão (Kanban)
 Para facilitar a visualização do status de cada chamado, a base de dados no **Airtable** foi estruturada em um formato **Kanban**. 
