@@ -11,7 +11,7 @@ Projeto de automação de fluxo de dados de ponta a ponta, conectando ferramenta
 ## 📊 Fluxo de Trabalho
 
 ![Fluxo de Automação](tally.png)
-*(Aqui descreva brevemente o print)*
+
 
 ![Visão Kanban](kanban.png)
 
