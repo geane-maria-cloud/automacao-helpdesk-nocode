@@ -14,7 +14,7 @@ Projeto de automação de fluxo de dados de ponta a ponta, conectando ferramenta
 *(Aqui descreva brevemente o print)*
 
 ![Visão Kanban](kanban.png)
-*(Aqui descreva como você organizou as tarefas)*
+
 
 ![No-Code em ação](nocode.png)
 
